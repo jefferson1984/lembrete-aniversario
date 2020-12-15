@@ -18,7 +18,7 @@ useState
 
 ## Imagem do Projeto
 
-[acessar link do projeto](lembrete-aniversario.netlify.app)
+[lembrete-aniversario.netlify.app](https://lembrete-aniversario.netlify.app/)
 
 <img src="https://github.com/jefferson1984/lembrete-aniversario/blob/main/lembrete2.png">
 
